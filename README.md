@@ -1,2 +1,2 @@
 # hello-world
-Repoditory for testing the API
+Repository for testing the API
